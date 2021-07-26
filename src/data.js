@@ -6,7 +6,7 @@ const people = [
       image:
         'https://media-exp1.licdn.com/dms/image/C5603AQEAuStN1IamPA/profile-displayphoto-shrink_400_400/0/1621939891181?e=1628121600&v=beta&t=BPYwf7j3jbMcpgH1U3_14tJyzkMvylHTZEH4P22eRqA',
       quote:
-        'Motivates and helps others',
+        'Live life to the fullest',
     },
     {
       id: 2,
